@@ -1,0 +1,225 @@
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Berlin - Musik & Frieden
+Venue Location: Berlin, Germany
+Date of Event: Tuesday, April 23, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Noppen Air Musikfestival
+Venue Location: Herzogsdorf, Austria
+Date of Event: Friday, April 26, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Dornbirn - Conrad Sohm
+Venue Location: Dornbirn, Austria
+Date of Event: Saturday, April 27, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Dortmund - FZW
+Venue Location: Dortmund, Germany
+Date of Event: Monday, April 29, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Köln - Luxor
+Venue Location: Köln, Germany
+Date of Event: Sunday, April 28, 2019 12:00 AM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Antwerp - Trix
+Venue Location: Antwerpen, Belgium
+Date of Event: Friday, May 3, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Amsterdam - Paradiso
+Venue Location: Amsterdam, Netherlands
+Date of Event: Thursday, May 2, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Hamburg - Knust
+Venue Location: Hamburg, Germany
+Date of Event: Tuesday, April 30, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | London - Hoxton Square B&K
+Venue Location: London, United Kingdom
+Date of Event: Tuesday, May 7, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Stuttgart - Im Wizemann
+Venue Location: Stuttgart, Germany
+Date of Event: Wednesday, May 8, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Graz - PPC
+Venue Location: Graz, Austria
+Date of Event: Thursday, May 9, 2019 12:00 AM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | München - Ampere
+Venue Location: München, Germany
+Date of Event: Sunday, May 12, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Paris - La Boule Noir
+Venue Location: Paris, France
+Date of Event: Saturday, May 4, 2019 12:00 AM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Salzburg - Rockhouse
+Venue Location: Salzburg, Austria
+Date of Event: Tuesday, May 14, 2019 12:00 AM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Zürich - Exil
+Venue Location: Zürich, Switzerland
+Date of Event: Wednesday, May 15, 2019 12:00 AM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:45:45 GMT-0400
+Search Parameters: concert-this, james hersey
+Results:
+Venue Name: James Hersey | Wien - Grelle Forelle
+Venue Location: Wien, Austria
+Date of Event: Friday, May 10, 2019 7:00 PM
+
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:53:52 GMT-0400
+Search Parameters: spotify-this-song, beat it
+Results:
+Artist: Asses Kaur
+Song Name: Beat It Bijuriya
+Album Name: Munna Michael (Original Motion Picture Soundtrack)
+Preview URL: https://p.scdn.co/mp3-preview/b75669f863b749b0a578975502f2bad2298349f9?cid=d7d70cb07f4a49ce84563ca0e95902fa
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:54:17 GMT-0400
+Search Parameters: spotify-this-song, billie jean
+Results:
+Artist: Michael Jackson
+Song Name: Billie Jean
+Album Name: Thriller 25 Super Deluxe Edition
+Preview URL: https://p.scdn.co/mp3-preview/4eb779428d40d579f14d12a9daf98fc66c7d0be4?cid=d7d70cb07f4a49ce84563ca0e95902fa
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:57:07 GMT-0400
+Search Parameters: spotify-this-song, asdfqwerasdfqwer
+Results:
+Error: TypeError: Cannot read property 'artists' of undefined
+
+Here's an alternative
+
+undefined
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 19:57:07 GMT-0400
+Search Parameters: spotify-this-song, asdfqwerasdfqwer
+Results:
+Artist: Ace of Base
+Song Name: The Sign
+Album Name: The Sign (US Album) [Remastered]
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d7d70cb07f4a49ce84563ca0e95902fa
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 20:00:11 GMT-0400
+Search Parameters: movie-this, batman begins
+Results:
+Title: Batman Begins
+Year: 2005
+IMDB Rating: 8.2
+Rotten Tomato Rating: 70
+Country Produced: USA, UK
+Language: English, Urdu, Mandarin
+Plot: After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.
+Actors: Christian Bale, Michael Caine, Liam Neeson, Katie Holmes
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 20:01:52 GMT-0400
+Search Parameters: movie-this, fdsasdf
+Results:
+Could not find what you're looking for. Here's an alternative:
+undefined
+If you havent watched "Mr. Nobody," then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 20:01:52 GMT-0400
+Search Parameters: movie-this, fdsasdf
+Results:
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8
+Rotten Tomato Rating: 63
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 20:15:14 GMT-0400
+Search Parameters: do-what-it-says, undefined
+Results:
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d7d70cb07f4a49ce84563ca0e95902fa
