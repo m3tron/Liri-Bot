@@ -18,57 +18,57 @@ It will return the results into the console and log the results into a log file.
 ---
 
 1. To search for upcoming concerts by your favorite artist enter the following:
-   ![alt-text](screenshots/concertThisSearch.png)
+   ![alt-text](screenshots/concertThisSearch.PNG)
 
 - It will return the following in the console:
 
-![alt-text](screenshots/concertThisConsole1.png)
-![alt-text](screenshots/concertThisConsole2.png)
+![alt-text](screenshots/concertThisConsole1.PNG)
+![alt-text](screenshots/concertThisConsole2.PNG)
 
 - It will log the results into a log.txt file:
 
-![alt-text](screenshots/concertThisLog1.png)
-![alt-text](screenshots/concertThisLog2.png)
-![alt-text](screenshots/concertThisLog3.png)
-![alt-text](screenshots/concertThisLog4.png)
+![alt-text](screenshots/concertThisLog1.PNG)
+![alt-text](screenshots/concertThisLog2.PNG)
+![alt-text](screenshots/concertThisLog3.PNG)
+![alt-text](screenshots/concertThisLog4.PNG)
 
 2. To search for a song on Spotify enter the following:
-   ![alt-text](screenshots/spotifyThisSongSearch.png)
+   ![alt-text](screenshots/spotifyThisSongSearch.PNG)
 
 - It will return the following in the console:
-  ![alt-text](screenshots/spotifyThisSongConsole.png)
+  ![alt-text](screenshots/spotifyThisSongConsole.PNG)
 
 - It will log the results into a log.txt file:
-  ![alt-text](screenshots/spotifyThisSongLog.png)
+  ![alt-text](screenshots/spotifyThisSongLog.PNG)
 
 - It is set to return the following if your search return undefined:
-  ![alt-text](screenshots/spotifyThisSongSearchError.png)
+  ![alt-text](screenshots/spotifyThisSongSearchError.PNG)
   ***
-  ![alt-text](screenshots/spotifyThisSongErrorConsole.png)
+  ![alt-text](screenshots/spotifyThisSongErrorConsole.PNG)
   ***
-  ![alt-text](screenshots/spotifyThisSongSearchErrorLog.png)
+  ![alt-text](screenshots/spotifyThisSongSearchErrorLog.PNG)
 
 3. To search for information about a movie enter the following:
-   ![alt-text](screenshots/movieThisSearch.png)
+   ![alt-text](screenshots/movieThisSearch.PNG)
 
 - It will return the following in the console:
-  ![alt-text](screenshots/movieThisConsole.png)
+  ![alt-text](screenshots/movieThisConsole.PNG)
 
   - It will log the results into a log.txt file:
-    ![alt-text](screenshots/movieThisLog.png)
+    ![alt-text](screenshots/movieThisLog.PNG)
 
   - It is set to return the following if your search returns undefined:
-    ![alt-text](screenshots/movieThisErrorSearch.png)
+    ![alt-text](screenshots/movieThisErrorSearch.PNG)
     ***
-    ![alt-text](screenshots/movieThisErrorConsole.png)
+    ![alt-text](screenshots/movieThisErrorConsole.PNG)
     ***
-    ![alt-text](screenshots/movieThisErrorLog.png)
+    ![alt-text](screenshots/movieThisErrorLog.PNG)
 
 4. To search based on the random.txt file enter the following:
-   ![alt-text](screenshots/doWhatItSaysSearch.png)
+   ![alt-text](screenshots/doWhatItSaysSearch.PNG)
 
    - It will return the following in the console:
-     ![alt-text](screenshots/doWhatItSaysConsole.png)
+     ![alt-text](screenshots/doWhatItSaysConsole.PNG)
 
    - It will log the results into a log.txt file:
-     ![alt-text](screenshots/doWhatItSaysLog.png)
+     ![alt-text](screenshots/doWhatItSaysLog.PNG)

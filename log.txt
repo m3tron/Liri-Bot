@@ -223,3 +223,12 @@ Artist: Backstreet Boys
 Song Name: I Want It That Way
 Album Name: The Hits--Chapter One
 Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d7d70cb07f4a49ce84563ca0e95902fa
+---------------------------------
+
+Time of Search: Thu Apr 11 2019 21:12:09 GMT-0400
+Search Parameters: do-what-it-says, undefined
+Results:
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d7d70cb07f4a49ce84563ca0e95902fa

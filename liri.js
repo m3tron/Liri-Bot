@@ -82,6 +82,7 @@ function movieThis(query) {
 function doWhatItSays() {
   fs.readFile("random.txt", "utf8", function(error, data) {
     var dataArray = data.split(",");
+    console.log(dataArray);
     main(dataArray[0], dataArray[1]);
   });
 }
